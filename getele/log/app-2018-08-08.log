@@ -1,0 +1,42 @@
+[2018-08-08T19:41:10.059] [INFO] [request/get-hongbao] - {"url":"https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=4&sn=2a031f56f7b30c4d&theme_id=569&device_id=&refer_user_id=16044417","mobile":"15259029407","cookies":15}
+[2018-08-08T19:41:10.063] [ERROR] [request/get-hongbao] - ReferenceError: meituan is not defined
+    at router.post (D:\project\getele\src\routes\get-hongbao.js:20:21)
+    at Layer.handle [as handle_request] (D:\project\getele\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\project\getele\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\project\getele\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\project\getele\node_modules\express\lib\router\layer.js:95:5)
+    at D:\project\getele\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\project\getele\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\project\getele\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\project\getele\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\project\getele\node_modules\express\lib\router\index.js:47:12)
+[2018-08-08T19:41:10.069] [INFO] [request/get-hongbao] - 耗时 0.01s
+[2018-08-08T19:41:17.277] [INFO] [request/get-hongbao] - {"url":"https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=4&sn=2a031f56f7b30c4d&theme_id=569&device_id=&refer_user_id=16044417","mobile":"15259029407","cookies":15}
+[2018-08-08T19:41:17.278] [ERROR] [request/get-hongbao] - ReferenceError: meituan is not defined
+    at router.post (D:\project\getele\src\routes\get-hongbao.js:20:21)
+    at Layer.handle [as handle_request] (D:\project\getele\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\project\getele\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\project\getele\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\project\getele\node_modules\express\lib\router\layer.js:95:5)
+    at D:\project\getele\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\project\getele\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\project\getele\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\project\getele\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\project\getele\node_modules\express\lib\router\index.js:47:12)
+[2018-08-08T19:41:17.279] [INFO] [request/get-hongbao] - 耗时 0.002s
+[2018-08-08T19:41:31.387] [INFO] [service/eleme] - 当前 white 0 条，black 0 条
+[2018-08-08T19:42:34.176] [INFO] [request/get-hongbao] - {"url":"https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=4&sn=2a031f56f7b30c4d&theme_id=569&device_id=&refer_user_id=16044417","mobile":"15259029407","cookies":15}
+[2018-08-08T19:42:34.179] [INFO] [request/get-hongbao] - 耗时 0.003s
+[2018-08-08T19:43:24.004] [INFO] [service/eleme] - 当前 white 0 条，black 0 条
+[2018-08-08T19:43:24.753] [INFO] [request/get-hongbao] - {"url":"https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=4&sn=2a031f56f7b30c4d&theme_id=569&device_id=&refer_user_id=16044417","mobile":"15259029407","cookies":15}
+[2018-08-08T19:43:24.755] [INFO] [request/get-hongbao] - 耗时 0.003s
+[2018-08-08T19:53:02.596] [INFO] [service/eleme] - 当前 white 0 条，black 0 条
+[2018-08-08T19:54:03.201] [INFO] [service/eleme] - 当前 white 0 条，black 0 条
+[2018-08-08T20:01:48.404] [INFO] [service/eleme] - 当前 white 0 条，black 0 条
+[2018-08-08T20:02:48.996] [INFO] [service/eleme] - 当前 white 0 条，black 0 条
+[2018-08-08T20:03:49.594] [INFO] [service/eleme] - 当前 white 0 条，black 0 条
+[2018-08-08T20:04:50.224] [INFO] [service/eleme] - 当前 white 0 条，black 0 条
+[2018-08-08T20:05:50.835] [INFO] [service/eleme] - 当前 white 0 条，black 0 条
+[2018-08-08T20:06:51.400] [INFO] [service/eleme] - 当前 white 0 条，black 0 条
+[2018-08-08T20:07:51.970] [INFO] [service/eleme] - 当前 white 0 条，black 0 条
+[2018-08-08T20:08:52.559] [INFO] [service/eleme] - 当前 white 0 条，black 0 条

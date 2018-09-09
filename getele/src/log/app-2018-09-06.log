@@ -1,0 +1,169 @@
+[2018-09-06T20:35:18.291] [INFO] [service/proxy] - 
+[2018-09-06T20:36:18.252] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:37:18.254] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:38:18.254] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:39:18.256] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:40:18.259] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:41:18.260] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:42:18.260] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:43:18.263] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:44:18.263] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:45:15.023] [INFO] [service/proxy] - 
+[2018-09-06T20:46:14.993] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:46:47.237] [INFO] [request/get-hongbao] - {"url":"https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=4&sn=1100adefbc2b0c2e&theme_id=3041&device_id=&refer_user_id=16044417","mobile":"15259029407","cookies":15}
+[2018-09-06T20:46:47.239] [INFO] [service/proxy] - 本次不走代理
+[2018-09-06T20:46:47.844] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:46:48.191] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:46:48.580] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:46:48.953] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:46:49.322] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:46:49.678] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:46:50.055] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:46:50.410] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:46:50.762] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:46:51.120] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:46:51.499] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:46:51.851] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:46:52.255] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:46:52.632] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:46:52.988] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:46:52.994] [INFO] [response/get-hongbao] - {"code":4,"data":{"cookies":[]},"message":"请求饿了么服务器失败，请重试。如果重试仍然不行，请换一个饿了么链接再来"}
+[2018-09-06T20:46:52.994] [INFO] [request/get-hongbao] - 耗时 5.757s
+[2018-09-06T20:47:14.995] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:48:14.996] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:49:14.998] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:49:27.916] [INFO] [request/get-hongbao] - {"url":"https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=4&sn=1100adefbc2b0c2e&theme_id=3041&device_id=&refer_user_id=16044417","mobile":"15259029407","cookies":15}
+[2018-09-06T20:49:27.916] [INFO] [service/proxy] - 本次不走代理
+[2018-09-06T20:49:28.426] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:49:28.782] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:49:29.193] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:49:29.549] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:49:29.959] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:49:30.298] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:49:30.705] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:49:31.173] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:49:31.554] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:49:31.904] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:49:32.274] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:49:32.645] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:49:33.009] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:49:33.390] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:49:33.739] [ERROR] [service/eleme] - 重试绑定仍然异常 unexpected end of file
+[2018-09-06T20:49:33.740] [INFO] [response/get-hongbao] - {"code":4,"data":{"cookies":[]},"message":"请求饿了么服务器失败，请重试。如果重试仍然不行，请换一个饿了么链接再来"}
+[2018-09-06T20:49:33.740] [INFO] [request/get-hongbao] - 耗时 5.824s
+[2018-09-06T20:49:50.943] [INFO] [service/proxy] - 
+[2018-09-06T20:50:25.878] [INFO] [request/get-hongbao] - {"url":"https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=4&sn=1100adefbc2b0c2e&theme_id=3041&device_id=&refer_user_id=16044417","mobile":"15259029407","cookies":15}
+[2018-09-06T20:50:25.879] [INFO] [service/proxy] - 本次不走代理
+[2018-09-06T20:50:26.258] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T20:50:26.445] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T20:50:26.639] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T20:50:26.812] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T20:50:27.018] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T20:50:27.203] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T20:50:27.374] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T20:50:27.557] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T20:50:27.741] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T20:50:27.929] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T20:50:28.109] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T20:50:28.298] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T20:50:28.465] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T20:50:28.643] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T20:50:28.822] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T20:50:28.825] [INFO] [response/get-hongbao] - {"code":4,"data":{"cookies":[]},"message":"请求饿了么服务器失败，请重试。如果重试仍然不行，请换一个饿了么链接再来"}
+[2018-09-06T20:50:28.825] [INFO] [request/get-hongbao] - 耗时 2.947s
+[2018-09-06T20:50:50.912] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:51:50.913] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:52:50.915] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:53:50.918] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:54:50.920] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:55:50.920] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:56:50.922] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:57:50.922] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:58:50.922] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T20:59:50.923] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T21:01:22.816] [INFO] [service/proxy] - 
+[2018-09-06T21:02:22.770] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T21:03:07.443] [INFO] [request/get-hongbao] - {"url":"https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=4&sn=1100adefbc2b0c2e&theme_id=3041&device_id=&refer_user_id=16044417","mobile":"15259029407","cookies":15}
+[2018-09-06T21:03:07.444] [INFO] [service/proxy] - 本次不走代理
+[2018-09-06T21:03:07.854] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:03:08.031] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:03:08.210] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:03:08.414] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:03:08.612] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:03:08.790] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:03:08.963] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:03:09.147] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:03:09.334] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:03:09.510] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:03:09.682] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:03:09.881] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:03:10.081] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:03:10.258] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:03:10.435] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:03:10.440] [INFO] [response/get-hongbao] - {"code":4,"data":{"cookies":[]},"message":"请求饿了么服务器失败，请重试。如果重试仍然不行，请换一个饿了么链接再来"}
+[2018-09-06T21:03:10.440] [INFO] [request/get-hongbao] - 耗时 2.997s
+[2018-09-06T21:03:22.771] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T21:04:22.772] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T21:04:43.599] [INFO] [service/proxy] - 
+[2018-09-06T21:05:05.196] [INFO] [request/get-hongbao] - {"url":"https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=4&sn=1100adefbc2b0c2e&theme_id=3041&device_id=&refer_user_id=16044417","mobile":"15259029407","cookies":15}
+[2018-09-06T21:05:05.197] [INFO] [service/proxy] - 本次不走代理
+[2018-09-06T21:05:05.605] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:05.781] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:05.957] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:06.131] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:06.305] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:06.483] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:06.666] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:06.872] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:07.070] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:07.278] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:07.453] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:07.654] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:07.849] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:08.032] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:08.231] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:08.233] [INFO] [response/get-hongbao] - {"code":4,"data":{"cookies":[]},"message":"请求饿了么服务器失败，请重试。如果重试仍然不行，请换一个饿了么链接再来"}
+[2018-09-06T21:05:08.233] [INFO] [request/get-hongbao] - 耗时 3.038s
+[2018-09-06T21:05:28.123] [INFO] [service/proxy] - 
+[2018-09-06T21:05:56.066] [INFO] [request/get-hongbao] - {"url":"https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=4&sn=1100adefbc2b0c2e&theme_id=3041&device_id=&refer_user_id=16044417","mobile":"15259029407","cookies":15}
+[2018-09-06T21:05:56.068] [INFO] [service/proxy] - 本次不走代理
+[2018-09-06T21:05:56.274] [INFO] [service/eleme] - openid= 281C55F9DF90E5F0AE8B3FF362E25A6D sign= 698d89e1cff05c2374e6e3eb4dfe0736 phone= 18658421677
+[2018-09-06T21:05:56.452] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:56.453] [INFO] [service/eleme] - openid= 331AC4B22E86FF2138FC8666E41E4E4D sign= 878c805e309a0105cc01f8272b954f33 phone= 13167554935
+[2018-09-06T21:05:56.661] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:56.661] [INFO] [service/eleme] - openid= 9F3859D732C76DEDE787D7A8819EFC18 sign= d4318b769e3604e633e067af1b31c496 phone= 13731934363
+[2018-09-06T21:05:56.836] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:56.836] [INFO] [service/eleme] - openid= 1C656023AB44E4DC0CBCAE83AE6836E7 sign= 0722aba418f64b39f725dc685681dd1f phone= 13536837593
+[2018-09-06T21:05:57.017] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:57.018] [INFO] [service/eleme] - openid= 8067256EFD911688A9EDBCB8AA9A5726 sign= 063190522158216ad6473d908e155e7b phone= 15149683955
+[2018-09-06T21:05:57.192] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:57.192] [INFO] [service/eleme] - openid= 1C971B11CB045FA333E9C4A045FC916E sign= b992e42d335156a43aa369f8732ab056 phone= 15055209462
+[2018-09-06T21:05:57.363] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:57.363] [INFO] [service/eleme] - openid= 2831BF02FC0A4C5F6738220C4869470D sign= 47c0c52352a4d0b5c5d1f58890670beb phone= 13267274672
+[2018-09-06T21:05:57.541] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:57.541] [INFO] [service/eleme] - openid= 590D544992435DBE510A8EF2429070E5 sign= 9d040b265f5e6cb0e9d77a26394d70a1 phone= 13195873584
+[2018-09-06T21:05:57.751] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:57.752] [INFO] [service/eleme] - openid= 57E0CC21FE8DC6FCA4C9BA2F2603D888 sign= 0ca4d8847afaccbb988cbe7ed0fdd3e1 phone= 13882176807
+[2018-09-06T21:05:57.941] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:57.941] [INFO] [service/eleme] - openid= 32C959265866C4BFD40378CD74E278A7 sign= 65c48416161d947b1a44d41e563fd3e6 phone= 16641914962
+[2018-09-06T21:05:58.118] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:58.118] [INFO] [service/eleme] - openid= DD44682EE7AD8D4BD88D0F45B271AA32 sign= d82e0b2827001d104c91b3bd344525e7 phone= 13984684558
+[2018-09-06T21:05:58.296] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:58.297] [INFO] [service/eleme] - openid= 8D8E1489638031DFAA0995593C1550FC sign= 3d37d821ebdfe5eb4f6741d12ae2bda9 phone= 15038351293
+[2018-09-06T21:05:58.517] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:58.517] [INFO] [service/eleme] - openid= EB0E7DDFDBE1C86113C3724A314480B2 sign= 16e0a9255f4f5d4dd6dbd8b3b60fa644 phone= 15080888671
+[2018-09-06T21:05:58.692] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:58.693] [INFO] [service/eleme] - openid= AE2B1D49927BA14CF1A618AA485F6A70 sign= 55fe3b7bee7f6e769290dee64292f9c7 phone= 17672923524
+[2018-09-06T21:05:58.900] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:58.900] [INFO] [service/eleme] - openid= 87D730335ACF8BA5CD0C273DC18ABF74 sign= 424b0116ee36aaf900780fb2e73fadb0 phone= 13457658074
+[2018-09-06T21:05:59.095] [ERROR] [service/eleme] - 绑定异常 unexpected end of file
+[2018-09-06T21:05:59.097] [INFO] [response/get-hongbao] - {"code":4,"data":{"cookies":[]},"message":"请求饿了么服务器失败，请重试。如果重试仍然不行，请换一个饿了么链接再来"}
+[2018-09-06T21:05:59.097] [INFO] [request/get-hongbao] - 耗时 3.031s
+[2018-09-06T21:06:28.082] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T21:07:28.084] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T21:08:28.084] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T21:09:28.086] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T21:10:28.087] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T21:11:28.089] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T21:12:28.089] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-06T21:13:28.091] [INFO] [service/eleme] - 当前 white 18 条，black 88 条

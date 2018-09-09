@@ -1,0 +1,13 @@
+[2018-09-08T23:27:08.827] [INFO] [service/proxy] - 
+[2018-09-08T23:28:08.772] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-08T23:28:36.539] [INFO] [request/get-hongbao] - {"url":"https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=9&track_id=&platform=4&sn=110040a975ab0cb5&theme_id=3017&device_id=&refer_user_id=16044417","mobile":"15259029407","cookies":11}
+[2018-09-08T23:31:01.483] [INFO] [service/proxy] - 
+[2018-09-08T23:31:26.390] [INFO] [request/get-hongbao] - {"url":"https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=9&track_id=&platform=4&sn=110040a975ab0cb5&theme_id=3017&device_id=&refer_user_id=16044417","mobile":"15259029407","cookies":11}
+[2018-09-08T23:31:35.899] [INFO] [service/proxy] - 本次不走代理
+[2018-09-08T23:33:24.440] [INFO] [response/get-hongbao] - {"code":3,"data":{"cookies":[]},"message":"饿了么红包链接不正确或请求饿了么超时 \"value\" required in setHeader(\"Cookie\", value)"}
+[2018-09-08T23:33:24.442] [INFO] [request/get-hongbao] - 耗时 118.052s
+[2018-09-08T23:33:24.444] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-08T23:34:24.445] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-08T23:35:24.448] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-08T23:36:24.452] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
+[2018-09-08T23:37:24.456] [INFO] [service/eleme] - 当前 white 18 条，black 88 条
